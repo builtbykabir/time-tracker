@@ -9,6 +9,11 @@ export enum AppErrorCode {
   InvalidSessionTimeRange = 'INVALID_SESSION_TIME_RANGE',
   SessionOverlap = 'SESSION_OVERLAP',
   CannotDeleteActiveSession = 'CANNOT_DELETE_ACTIVE_SESSION',
+  InvalidTodoName = 'INVALID_TODO_NAME',
+  InvalidTodoDescription = 'INVALID_TODO_DESCRIPTION',
+  InvalidTodoDueAt = 'INVALID_TODO_DUE_AT',
+  InvalidTodoUpdate = 'INVALID_TODO_UPDATE',
+  TodoNotFound = 'TODO_NOT_FOUND',
   DatabaseOperationFailed = 'DATABASE_OPERATION_FAILED',
 }
 

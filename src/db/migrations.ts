@@ -14,6 +14,11 @@ const migrations: readonly Migration[] = [
     name: 'initial_schema',
     fileName: '001_initial_schema.sql',
   },
+  {
+    version: 2,
+    name: 'create_todos',
+    fileName: '002_create_todos.sql',
+  },
 ];
 
 function readMigrationSql(fileName: string): string {
