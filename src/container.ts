@@ -11,7 +11,7 @@ export function createContainer(databasePath?: string) {
   const sessionRepository = new SessionRepository(db);
 
   const categoryService = new CategoryService(categoryRepository);
-  const sessionService = new SessionService(sessionRepository);
+  const sessionService = new SessionService(sessionRepository, categoryRepository);
 
   return {
     db,
