@@ -1,0 +1,35 @@
+
+# Dependencies
+node_modules/
+.pnp/
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# Bun
+bun.lock
+bun.lockb
+
+# Generated files
+*.generated.ts
+*.min.js
+*.min.css
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Git
+.git/

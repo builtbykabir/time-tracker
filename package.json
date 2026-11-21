@@ -1,0 +1,15 @@
+{
+  "name": "time-tracker",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.10.1",
+    "typescript": "^7"
+  }
+}
