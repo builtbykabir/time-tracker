@@ -11,5 +11,8 @@
     "@types/bun": "latest",
     "prettier": "^3.10.1",
     "typescript": "^7"
+  },
+  "dependencies": {
+    "@opentui/core": "^0.9.7"
   }
 }

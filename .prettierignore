@@ -14,6 +14,7 @@ bun.lock
 bun.lockb
 
 # Generated files
+.agents/
 *.generated.ts
 *.min.js
 *.min.css

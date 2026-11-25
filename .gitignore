@@ -9,6 +9,10 @@ dist
 # local application data
 /data/
 
+# local agent tooling
+/.agents/
+/skills-lock.json
+
 # code coverage
 coverage
 *.lcov
