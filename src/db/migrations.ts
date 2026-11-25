@@ -19,6 +19,11 @@ const migrations: readonly Migration[] = [
     name: 'create_todos',
     fileName: '002_create_todos.sql',
   },
+  {
+    version: 3,
+    name: 'create_deadlines',
+    fileName: '003_create_deadlines.sql',
+  },
 ];
 
 function readMigrationSql(fileName: string): string {

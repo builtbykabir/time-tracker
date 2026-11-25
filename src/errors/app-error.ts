@@ -14,6 +14,10 @@ export enum AppErrorCode {
   InvalidTodoDueAt = 'INVALID_TODO_DUE_AT',
   InvalidTodoUpdate = 'INVALID_TODO_UPDATE',
   TodoNotFound = 'TODO_NOT_FOUND',
+  InvalidDeadlineName = 'INVALID_DEADLINE_NAME',
+  InvalidDeadlineDate = 'INVALID_DEADLINE_DATE',
+  InvalidDeadlineUpdate = 'INVALID_DEADLINE_UPDATE',
+  DeadlineNotFound = 'DEADLINE_NOT_FOUND',
   DatabaseOperationFailed = 'DATABASE_OPERATION_FAILED',
 }
 
