@@ -1,0 +1,149 @@
+{
+  "matrix": {
+    "backgroundColor": "#020A03",
+    "surfaceColor": "#061408",
+    "textColor": "#D8FFD3",
+    "accentColor": "#57FF3A",
+    "mutedColor": "#2FAA29",
+    "successColor": "#57FF3A",
+    "dangerColor": "#FF5F5F",
+    "graphColors": [
+      "#57FF3A",
+      "#00E5A8",
+      "#B6FF5C",
+      "#00C8FF",
+      "#FFD166",
+      "#FF7B72",
+      "#C77DFF",
+      "#4DD0E1",
+      "#A8FF78",
+      "#00FF87"
+    ]
+  },
+  "green": {
+    "backgroundColor": "#031008",
+    "surfaceColor": "#071D0F",
+    "textColor": "#D7FBE4",
+    "accentColor": "#40D878",
+    "mutedColor": "#27864B",
+    "successColor": "#40D878",
+    "dangerColor": "#FF6B6B",
+    "graphColors": [
+      "#40D878",
+      "#74E39A",
+      "#22C55E",
+      "#2DD4BF",
+      "#67E8F9",
+      "#FACC15",
+      "#FB923C",
+      "#A78BFA",
+      "#F472B6",
+      "#BEF264"
+    ]
+  },
+  "orange": {
+    "backgroundColor": "#0D0802",
+    "surfaceColor": "#1D1104",
+    "textColor": "#FFE4BF",
+    "accentColor": "#FF9F1C",
+    "mutedColor": "#A96716",
+    "successColor": "#2EC4B6",
+    "dangerColor": "#FF5D5D",
+    "graphColors": [
+      "#FF9F1C",
+      "#FFBF69",
+      "#FFD166",
+      "#F77F00",
+      "#E85D04",
+      "#2EC4B6",
+      "#4CC9F0",
+      "#B26CFF",
+      "#FF5D8F",
+      "#80ED99"
+    ]
+  },
+  "blue": {
+    "backgroundColor": "#020817",
+    "surfaceColor": "#07152D",
+    "textColor": "#DDE9FF",
+    "accentColor": "#4D8DFF",
+    "mutedColor": "#315FA8",
+    "successColor": "#2ECF73",
+    "dangerColor": "#FF5D8F",
+    "graphColors": [
+      "#4D8DFF",
+      "#4CC9F0",
+      "#00B4D8",
+      "#7B61FF",
+      "#B26CFF",
+      "#F15BB5",
+      "#FF5D8F",
+      "#FFD166",
+      "#2ECF73",
+      "#90E0EF"
+    ]
+  },
+  "light-blue": {
+    "backgroundColor": "#021013",
+    "surfaceColor": "#062126",
+    "textColor": "#DDFBFF",
+    "accentColor": "#52E5FF",
+    "mutedColor": "#2A93A4",
+    "successColor": "#4ADE80",
+    "dangerColor": "#FB7185",
+    "graphColors": [
+      "#52E5FF",
+      "#38BDF8",
+      "#22D3EE",
+      "#2DD4BF",
+      "#60A5FA",
+      "#818CF8",
+      "#C084FC",
+      "#F472B6",
+      "#FACC15",
+      "#4ADE80"
+    ]
+  },
+  "violet": {
+    "backgroundColor": "#0C0615",
+    "surfaceColor": "#190C29",
+    "textColor": "#F0DEFF",
+    "accentColor": "#C77DFF",
+    "mutedColor": "#7D4FA0",
+    "successColor": "#2ECF73",
+    "dangerColor": "#FF5D8F",
+    "graphColors": [
+      "#C77DFF",
+      "#9D4EDD",
+      "#7B61FF",
+      "#F15BB5",
+      "#FF5D8F",
+      "#4CC9F0",
+      "#2ECF73",
+      "#FFD166",
+      "#FB923C",
+      "#E879F9"
+    ]
+  },
+  "mono": {
+    "backgroundColor": "#080808",
+    "surfaceColor": "#171717",
+    "textColor": "#F5F5F5",
+    "accentColor": "#EEEEEE",
+    "mutedColor": "#888888",
+    "successColor": "#D9D9D9",
+    "dangerColor": "#999999",
+    "graphColors": [
+      "#FFFFFF",
+      "#E5E5E5",
+      "#CCCCCC",
+      "#B3B3B3",
+      "#999999",
+      "#808080",
+      "#666666",
+      "#BFBFBF",
+      "#D9D9D9",
+      "#737373"
+    ]
+  }
+}

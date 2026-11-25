@@ -1,0 +1,15 @@
+{
+  "title": "Time Tracker",
+  "headerLine1": "TRACK // ANALYSE",
+  "headerLine2": "IMPROVE // ONE SESSION AT A TIME",
+  "locale": "en-US",
+  "timeZone": "UTC",
+  "workdayStart": "00:00",
+  "weekStartsOn": 1,
+  "theme": {
+    "preset": "mono"
+  },
+  "appearance": {
+    "timerFont": "slick"
+  }
+}
